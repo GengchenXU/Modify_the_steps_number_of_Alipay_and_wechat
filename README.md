@@ -22,7 +22,7 @@ python 代码
 
 程序设定是每天 7 点自动修改步数，在下面脚本对应的位置替换填入乐心健康手机号、乐心健康密码、修改步数 (默认为 60000)，然后运行程序。修改步数推荐设置范围是 30000 至 90000，步数值太大会导致修改不成功。如果想改变第二天自动修改步数的时间，请修改图示位置的 25200，+25200 代表第二天 0 点后加上的秒数，也就是 7x60x60，即 7 小时，根据自己的需要修改即可。如果每天都要修改步数，那么让程序一直保持运行即可。  
 注意：运行程序会立刻修改当天的步数，自动修改步数是从程序保持运行的第二天开始。  
-![](https://github.com/GengchenXU/Modify_the_steps_of_Alipay_and_wechat/blob/main/picture/5.png)  
+![](https://github.com/GengchenXU/Modify_the_steps_of_Alipay_and_wechat/blob/main/picture/5.png)    
 ![](https://github.com/GengchenXU/Modify_the_steps_of_Alipay_and_wechat/blob/main/picture/6.png)  
 change_step.py
 
