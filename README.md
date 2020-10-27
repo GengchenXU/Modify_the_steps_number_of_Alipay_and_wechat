@@ -1,4 +1,4 @@
-# Modify_the_steps_of_Alipay_and_wechat
+# Modify_the_steps—_number_of_Alipay_and_wechat
 修改支付宝&微信步数
 
 实现方法
